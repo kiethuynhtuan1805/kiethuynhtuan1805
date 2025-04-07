@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a passionate full-stack developer from Vietnam.<br><br>- 📚 I have just graduated from the Ho Chi Minh City University of Technology. <br>- ⚡ I am currently interested in fields like Software Engineering (Full stack), Web development, Mobile development, and Machine learning.</p>
+<p align="left">I'm a passionate developer from Vietnam.<br><br>- 📚 I have just graduated from the Ho Chi Minh City University of Technology. <br>- ⚡ I am currently interested in fields like Software Engineering (Full stack), Web development, Mobile development, and Machine learning.</p>
 
 ###
 
