@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://png.pngtree.com/png-clipart/20240705/original/pngtree-web-programmer-avatar-png-image_15495270.png"  />
+  <img height="150" src="https://img.freepik.com/premium-photo/software-engineer-digital-avatar-generative-ai_934475-8997.jpg"  />
 </div>
 
 ###
