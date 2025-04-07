@@ -77,5 +77,3 @@
 <a href="https://www.facebook.com/kiet.huynh1805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiệt huỳnh" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiethuynhtuan1805&show_icons=true&locale=en&layout=compact" alt="kiethuynhtuan1805" /></p>
-
